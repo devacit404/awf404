@@ -1,0 +1,15 @@
+{
+    "name": "AWF 404",
+    "version": "1.0.0",
+    "description": "ola",
+    "main": "index.html",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "crypto": "^1.0.1"
+    },
+    "author": "devacita404",
+    "license": "MIT"
+  }
