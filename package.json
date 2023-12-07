@@ -1,5 +1,5 @@
 {
-    "name": "AWF 404",
+    "name": "awf404",
     "version": "1.0.0",
     "description": "ola",
     "main": "index.html",
@@ -8,7 +8,8 @@
     },
     "dependencies": {
       "express": "^4.17.1",
-      "crypto": "^1.0.1"
+      "crypto": "^1.0.1",
+      "body-parser": "^1.0.1"
     },
     "author": "devacita404",
     "license": "MIT"
