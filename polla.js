@@ -1,3 +1,4 @@
-if (secret.ES_UN_SECRETO) {
+pene = {{ secret.ES_UN_SECRETO }};
+if (pene) {
   console.log("pene");
 }
